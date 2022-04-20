@@ -1,0 +1,2 @@
+# simple_flask_view
+Blueprintのviewを使ったFlaskのひな形
